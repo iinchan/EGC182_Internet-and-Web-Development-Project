@@ -12,4 +12,4 @@ should be developed from scratch and to include at least 5 pages which can be vi
 desktop.
 
 ## ** Note **
-After downloading the zip file, unzip it and start by navigatiing to the "index.html" (which is the main).
+After downloading the zip file, unzip it and start by navigating to the "index.html" (which is the main page).
