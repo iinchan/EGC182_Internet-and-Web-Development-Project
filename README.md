@@ -10,3 +10,6 @@ This project requires students to develop an online website for a food stall tha
 most. The stall can be from a hawker center, a coffee shop, food court or any eatery. The project
 should be developed from scratch and to include at least 5 pages which can be viewed on a
 desktop.
+
+## ** Note **
+After downloading the zip file, unzip it and start by navigatiing to the "index.html" (which is the main).
