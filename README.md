@@ -10,4 +10,4 @@ improve the stall awareness and thus, attract more business.
 - The website should be developed from scratch and to include at least 5 pages which can be viewed on a desktop.
 
 ## ** Note: **
-After downloading the zip file, unzip it and start by navigating to the "index.html" (which is the main page).
+After downloading the zip file, unzip it and start by navigating to the "index.html" (which is the main page) to start placing your order.
